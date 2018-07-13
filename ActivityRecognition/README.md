@@ -22,11 +22,11 @@ between 0 and 100.
 
 To run this sample, **location must be enabled**.
 
-[1]: https://developer.android.com/reference/com/google/android/gms/location/ActivityRecognitionApi.html
+[1]: https://developers.google.com/location-context/activity-recognition/
 
-[2]: https://developer.android.com/reference/com/google/android/gms/location/ActivityRecognitionResult.html
+[2]: https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionResult
 
-[3]: https://developer.android.com/reference/com/google/android/gms/location/DetectedActivity.html
+[3]: https://developers.google.com/android/reference/com/google/android/gms/location/DetectedActivity
 
 Prerequisites
 --------------
